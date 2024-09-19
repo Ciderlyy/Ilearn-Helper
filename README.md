@@ -1,8 +1,8 @@
-# Ilearn Cheater ~~Cheater~~ Helper
+# Ilearn ~~Cheater~~ Helper
 
 ## Overview
 
-The **Ilearn Cheater ~~Cheater~~ Helper** is a custom userscript designed to enhance the Ilearn educational platform. This script automates the process of logging and auto-filling answers to streamline user interactions with quizzes and learning modules.
+The **Ilearn ~~Cheater~~ Helper** is a custom userscript designed to enhance the Ilearn educational platform. This script automates the process of logging and auto-filling answers to streamline user interactions with quizzes and learning modules.
 
 **Honestly, fuck Ilearn, I used up my admin time to make this shit for y’all**
 

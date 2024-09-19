@@ -2,7 +2,9 @@
 
 ## Overview
 
-The **Ilearn Cheater Userscript** is a custom userscript designed to enhance the Ilearn educational platform. This script automates the process of logging and auto-filling answers to streamline user interactions with quizzes and learning modules. It provides improved efficiency and convenience for users by capturing and restoring their responses. Honestly fuck Ilearn, i used up my admin time to make this shit for yall
+The **Ilearn Cheater Userscript** is a custom userscript designed to enhance the Ilearn educational platform. This script automates the process of logging and auto-filling answers to streamline user interactions with quizzes and learning modules.
+
+**Honestly, fuck Ilearn, I used up my admin time to make this shit for y’all**
 
 ## Features
 
@@ -50,5 +52,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For further details or support, please contact me on platoon chat
-
+For further details or support, please contact me on Platoon chat

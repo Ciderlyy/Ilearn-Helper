@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Ilearn Cheater Enhanced with Debugging
+// @name         Ilearn Cheater Enhanced
 // @namespace    http://tampermonkey.net/
-// @version      0.23
+// @version      0.11
 // @description  Save and autofill answers for multiple choice, open-ended, and drag-and-drop questions with error handling
 // @author       Ciderly
 // @match        https://ilearn.learnsaf.gov.sg/*  // Updated to match the specific learning website

@@ -48,7 +48,7 @@ If you have suggestions or improvements, feel free to open an issue or submit a 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL- 3.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 

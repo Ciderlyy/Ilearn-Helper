@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Ilearn Cheater Enhanced
+// @name         Ilearn "Helper" Enhanced
 // @namespace    http://tampermonkey.net/
 // @version      0.11
 // @description  Save and autofill answers for multiple choice, open-ended, and drag-and-drop questions with error handling
